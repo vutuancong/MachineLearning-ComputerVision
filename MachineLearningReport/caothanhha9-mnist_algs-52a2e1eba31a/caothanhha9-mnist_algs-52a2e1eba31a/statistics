@@ -1,0 +1,4 @@
+SVM: accuracy 0.97, training time: several seconds
+MLP (tensorflow): accuracy 0.94 , training time: several minutes
+MLP (sknn): accuracy _, training time: several days
+CNN: accuracy 0.99, training time: several minutes

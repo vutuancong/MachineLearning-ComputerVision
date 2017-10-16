@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Andrew Ng
+N;CHARSET=UTF-8:Andrew Ng;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;1195 Bordeaux Drive;Sunnyvale;CA;94089;USA
+EMAIL:andrewyantakng@gmail.com
+ORG;CHARSET=UTF-8:Andrew Ng
+URL:http://mlyearning.org
+END:VCARD
